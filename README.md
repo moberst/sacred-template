@@ -2,7 +2,7 @@
 
 ## Overview 
 
-`sacred` [link](https://github.com/IDSIA/sacred) is a python package that exists to help run and manage experiments in a reproducible way.  This is a minimal working example of an experiment set up to run with `sacred`, which is meant to serve as a template for quickly running other ML experiments.
+[`sacred`](https://github.com/IDSIA/sacred) is a python package that exists to help run and manage experiments in a reproducible way.  This is a minimal working example of an experiment set up to run with `sacred`, which is meant to serve as a template for quickly running other ML experiments.
 
 Generally speaking, I have found this to be a good tool for experiments where you want to:
 * Run an algorithm and record several custom metrics
